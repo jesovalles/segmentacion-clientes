@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
+*.py[cod]
+*.egg-info/
+data/*.csv
